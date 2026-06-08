@@ -1,0 +1,10 @@
+/home/runner/workspace/obj/Release/net472/RavenM.csproj.AssemblyReference.cache
+/home/runner/workspace/obj/Release/net472/PluginInfo.cs
+/home/runner/workspace/obj/Release/net472/RavenM.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/obj/Release/net472/RavenM.AssemblyInfoInputs.cache
+/home/runner/workspace/obj/Release/net472/RavenM.AssemblyInfo.cs
+/home/runner/workspace/obj/Release/net472/RavenM.csproj.CoreCompileInputs.cache
+/home/runner/workspace/bin/Release/net472/RavenM.dll
+/home/runner/workspace/bin/Release/net472/RavenM.pdb
+/home/runner/workspace/obj/Release/net472/RavenM.dll
+/home/runner/workspace/obj/Release/net472/RavenM.pdb
